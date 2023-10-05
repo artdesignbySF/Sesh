@@ -1,5 +1,5 @@
 # Sesh
-Sesh app makes it possible to perform musical jamsessions real-time (or with a bar or two delay) by geographical dispersed musicians. 
+Sesh app will make it possible to perform musical jamsessions real-time (or with a bar or two delay) by geographical dispersed musicians. 
 
 I got inspired while working on Noderunners Radio and their Jukebox Bot, and realized that you could create streaming jamsessions, live.
 
